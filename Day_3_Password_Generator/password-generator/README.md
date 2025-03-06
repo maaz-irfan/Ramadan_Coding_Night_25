@@ -3,7 +3,9 @@ Password Generator
 A simple and secure password generator website that helps users create strong and unique passwords.
 
 🔗 Live Demo
+
 https://uniquepasswordgenerator.streamlit.app/
+
 Visit the Password Generator
 
 🚀 Features
@@ -18,11 +20,11 @@ User-friendly and responsive design.
 
 🛠️ Tech Stack
 
-Frontend: Next.js, React.js, Tailwind CSS
+Programming Language: Python
 
-Backend (if applicable): Node.js, Express.js
+Framework: Streamlit
 
-Other Tools: React Icons
+Other Tools: uv
 
 📦 Installation
 
