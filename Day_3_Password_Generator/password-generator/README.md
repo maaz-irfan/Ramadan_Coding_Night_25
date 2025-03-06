@@ -38,13 +38,11 @@ cd password-generator
 
 Install dependencies:
 
-npm install
+pip install -r requirements.txt
 
-Run the development server:
+Run the application:
 
-npm run dev
-
-Open http://localhost:3000 in your browser.
+streamlit run app.py
 
 🤝 Contributing
 
